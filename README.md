@@ -42,8 +42,6 @@ Once you add `S005,Treatment,3,125000`, the output should show 5 samples and 595
 6. Exchange PR links with a partner and leave a constructive line-specific review comment.
 7. Merge your PR after responding to feedback.
 
-**Why your own copy?** You can create branches and merge within your own repository, even if you have no write permissions on the instructor's template. A public copy makes peer comments possible without granting write access; if public repositories are not allowed, your instructor must arrange private repository access for reviewers in advance.
-
 ## License / data notes
 
 All example sample identifiers and counts are fictitious training data. You may adapt the materials for internal instruction.
