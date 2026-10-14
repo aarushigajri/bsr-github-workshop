@@ -4,7 +4,7 @@ This is a **practice repository** for a beginner-friendly Git and GitHub worksho
 
 ## Research scenario
 
-Your team maintains a small metadata table for a hypothetical sequencing experiment. The main research record is `data/samples.csv`. A small Python script checks the table for a missing or duplicate sample ID and reports sample counts by condition. This is deliberately simple: the goal is to practice a reproducible change and review workflow, not to run a production analysis.
+Your team maintains a small metadata table for a hypothetical sequencing experiment. The main research record is `data/samples.csv`. A small Python script checks the table for a missing or duplicate sample ID and reports sample counts by condition.
 
 ## Repository map
 
